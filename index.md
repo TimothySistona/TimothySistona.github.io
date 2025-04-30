@@ -3,6 +3,8 @@
 
 I am a Computer Science major at Cal State Fullerton hoping to graduate in 2028.
 
+My GitHub page is https://github.com/TimothySistona
+
 ## Favorite CPSC 120L Labs
 
 * Lab 3 part 1
